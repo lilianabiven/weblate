@@ -463,4 +463,4 @@ monolingual translations).
 
 In the background Weblate creates a Git repository for you and all changes are
 tracked in. In case you later decide to use a VCS to store the translations,
-you already have a repository within Weblate can base your integration on.
+you already have a repository within Weblate that you can base your integration on.
